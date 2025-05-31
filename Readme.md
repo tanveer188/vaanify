@@ -16,10 +16,7 @@ The goal of this repo is to provide a simple pip package where you can pass your
 
 Listen to a sample conversation powered by Vaanify:
 
-<video controls width="400">
-  <source src="demo/demo.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/ed7780c1-31a5-4738-b3dc-38939c999b8f
 
 ---
 
