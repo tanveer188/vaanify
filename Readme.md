@@ -122,7 +122,7 @@ sequenceDiagram
 5. **Configure Twilio Webhook**  
    In your Twilio Console, set the webhook for your phone number to the ngrok URL followed by `/incoming-call` (e.g., `https://abcd1234.ngrok.io/incoming-call`).
 
-   ![Twilio Webhook Setup Example](images\twilio.png)
+   ![Twilio Webhook Setup Example](images/twilio.png)
 
 ---
 
