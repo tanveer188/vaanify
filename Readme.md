@@ -95,7 +95,7 @@ sequenceDiagram
 1. **Clone the Repo**
 
    ```bash
-   git clone https://github.com/yourusername/vaanify.git
+   git clone https://github.com/tanveer188/vaanify.git
    cd vaanify
    ```
 
