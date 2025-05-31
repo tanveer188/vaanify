@@ -12,6 +12,17 @@ The goal of this repo is to provide a simple pip package where you can pass your
 
 ---
 
+## 🎧 Demo
+
+Listen to a sample conversation powered by Vaanify:
+
+<audio controls>
+  <source src="demo/demo.wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
 ## 🔥 Why Vaanify?
 
 - **Ultra-Low Latency:** Open-source orchestration for real-time voice interaction.
