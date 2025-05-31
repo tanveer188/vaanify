@@ -17,7 +17,7 @@ The goal of this repo is to provide a simple pip package where you can pass your
 Listen to a sample conversation powered by Vaanify:
 
 <audio controls>
-  <source src="demo/demo.wav" type="audio/mpeg">
+  <source src="demo/demo.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
