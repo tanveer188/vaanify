@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/ed7780c1-31a5-4738-b3dc-38939c999b8f
 
 ## 🔥 Why Vaanify?
 
-- **Ultra-Low Latency:** Open-source orchestration for real-time voice interaction.
+- **Low Latency:** Open-source orchestration for real-time voice interaction.
 - **Smart Interrupts:** Interrupt the AI even while it’s replying—instantly stops in under 250ms.
 - **Plug-n-Play:** Bring any AI agent, swap the streaming code, and you’re good to go.
 - **Phone Calls In Seconds** Your AI agent can now be accessed by phone call in a few easy steps.
